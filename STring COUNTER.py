@@ -19,3 +19,10 @@ G()
 
 #ALSO THE SQUARE BRACKETS IN REN=[I] TELLS PYTHON Go inside Ren and retrieve the item at position i." ThATS WHAT THE SQUARE BRACKETS ARE FOR 
 #ITS THE SAME WITH TEH OTHER VARIABLES AND OPERATORS WITH THE SQUARE BRACKETS 
+Letters = {}
+Character = "H"
+Letters[Character] = 1
+Letters ={}#the dictionary.
+Character = #the variable holding the key.
+"H" = #the actual key.
+1 = #the value (frequency HOW MANY THERE ARE ).
